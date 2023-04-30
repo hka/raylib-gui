@@ -1,4 +1,4 @@
-Try it out at: https://hka.github.io/raylib-gui/docs/
+Try it out at: https://hka.github.io/raylib-gui/
 
 ```
 https://emscripten.org/docs/getting_started/downloads.html
